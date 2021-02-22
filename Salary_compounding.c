@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define SALARY 24  // month salary
+#define SALARY 24  // month salary, 1 = 10,000 WON
 #define SP500 7 // s&p 500 uptick percent
 
 int main()
